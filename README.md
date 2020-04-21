@@ -6,7 +6,7 @@
 
 ## Download V2RayW
 
-[Releases](https://github.com/Cenmrev/V2RayW/releases)
+[Releases](https://github.com/dreamrover/V2RayW/releases)
 
 ## How deos V2RayW work
 
